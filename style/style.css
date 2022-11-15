@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wrapper {
+    height: 950px;
+    margin: auto;
+}
+.navbar {
+    background-image: url("../image/bg.jpg");
+    height: 25px;
+    padding: 5px;
+    margin: auto;
+}
+.navbar a {
+    color: #ffffff;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 15px;
+}
+#wrapper #header {
+    height: 400px;
+}
+#wrapper #header img {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 10% 40%;
+}
+#wrapper #content {
+    height: 950px;
+    margin-bottom: 10px;
+}
+#wrapper #content #content_1 {
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+#wrapper #content #content_1 h1 {
+    font-size: 40px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+#wrapper #content #content_1 p {
+    text-align: center;
+    margin-bottom: 30px;
+}
+#wrapper #content #content_2 {
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+#wrapper #content #content_2 h2 {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 5px;
+    text-align: center;
+}
+#wrapper #content #content_2 p {
+    text-align: center;
+    margin-bottom: 30px;
+}
+#wrapper #content #content_3 {
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+#wrapper #content #content_3 h3 {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 5px;
+    text-align: center;
+}
+#wrapper #content #content_3 p {
+    text-align: center;
+    margin-bottom: 30px;
+}
+#wrapper #content #content_4 {
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 50;
+}
+#wrapper #content #content_4 h4 {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 5px;
+    text-align: center;
+}
+#wrapper #content #content_4 p {
+    text-align: center;
+    margin-bottom: 30px;
+}
+#wrapper #footer {
+    color: #ffffff;
+    height: 20px;
+    margin-top: 1px;
+    text-align: center;
+    background-image: url("../image/bg.jpg");
+}
+.container {
+    height: 10px;
+    margin: auto;
+    
+}
